@@ -1,0 +1,6 @@
+include *.in
+include *.py
+include *.txt
+recursive-include dist *.gz
+recursive-include dist *.whl
+recursive-include src *.py
